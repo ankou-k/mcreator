@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rainmaker:blocks/pixil-frame-02",
+    "up": "rainmaker:blocks/pixil-frame-02",
+    "north": "rainmaker:blocks/pixil-frame-02",
+    "east": "rainmaker:blocks/pixil-frame-02",
+    "south": "rainmaker:blocks/pixil-frame-02",
+    "west": "rainmaker:blocks/pixil-frame-02",
+    "particle": "rainmaker:blocks/pixil-frame-02"
+  }
+}
